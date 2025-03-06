@@ -21,6 +21,9 @@
     var(--brand-color-primary)
   );
   --btn-color: var(--surface-color);
+  -webkit-background-clip: initial;
+  background-clip: initial;
+  color: var(--btn-color);
 }
 .btn-sm {
   padding: 0.5rem 1rem;
@@ -55,5 +58,17 @@
     color: transparent;
     position: relative;
     z-index: 1;
+  }
+}
+
+@media (width >=80em) {
+  .btn-sm {
+    font-size: var(--fs-base);
+    padding: 0.75rem 1.5rem;
+  }
+
+  .btn-md {
+    padding: 1rem 2rem;
+    font-size: 1.125rem;
   }
 }
