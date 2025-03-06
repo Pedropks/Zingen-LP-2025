@@ -1,5 +1,11 @@
 header {
+  font-family: var(--ff-sans);
+  color: var(--text-color-secondary);
   & a:first-child {
     margin-right: auto;
   }
+}
+
+h1 {
+  font-family: var(--ff-sans);
 }
