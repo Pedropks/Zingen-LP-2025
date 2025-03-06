@@ -43,6 +43,11 @@ html {
   line-height: 1.6;
   color: var(--text-color-primary);
 }
+
+img {
+  max-width: 100%;
+  display: inline-block;
+}
 body {
   background-color: var(--bg-color);
 }
