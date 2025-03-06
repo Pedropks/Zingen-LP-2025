@@ -7,7 +7,7 @@ a.social {
 
   -webkit-background-clip: initial;
   background-clip: initial;
-  &[area-label="tiktok"] {
+  & [area-label="tiktok"] {
     --bg-img: url(/asssets/icons/tiktok.svg);
 
     &:hover {
@@ -15,7 +15,7 @@ a.social {
     }
   }
 
-  &[area-label="instagram"] {
+  & [area-label="instagram"] {
     --bg-img: url(/asssets/icons/instagram.svg);
 
     &:hover {
