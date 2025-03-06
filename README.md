@@ -36,7 +36,7 @@ Zingen é uma página institucional no formato One Page, responsiva, para usar e
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://pedropks.github.io/agora-vai/). 
+Você pode visualizar o layout do projeto através [desse link](pedropks.github.io/Zingen-LP-2025/). 
 
 ## 📝 Licença
 
