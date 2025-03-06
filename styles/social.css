@@ -24,7 +24,7 @@ a.social {
   }
 
   &[area-label="discord"] {
-    --bg-img: url(/asssets/icons/discord.svg);
+    --bg-img: url(../asssets/icons/discord.svg);
 
     &:hover {
       --bg-img: url(/asssets/icons/discord-2.svg);
@@ -32,7 +32,7 @@ a.social {
   }
 
   &[area-label="twitter"] {
-    --bg-img: url(/asssets/icons/twitter.svg);
+    --bg-img: url(../asssets/icons/twitter.svg);
 
     &:hover {
       --bg-img: url(/asssets/icons/twitter-hover.svg);
