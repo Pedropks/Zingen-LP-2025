@@ -16,26 +16,26 @@ a.social {
   }
 
   &[area-label="instagram"] {
-    --bg-img: url(./asssets/icons/instagram.svg);
+    --bg-img: url(../asssets/icons/instagram.svg);
 
     &:hover {
-      --bg-img: url(./asssets/icons/instagram-2.svg);
+      --bg-img: url(../asssets/icons/instagram-2.svg);
     }
   }
 
   &[area-label="discord"] {
-    --bg-img: url(/asssets/icons/discord.svg);
+    --bg-img: url(../asssets/icons/discord.svg);
 
     &:hover {
-      --bg-img: url(/asssets/icons/discord-2.svg);
+      --bg-img: url(../asssets/icons/discord-2.svg);
     }
   }
 
   &[area-label="twitter"] {
-    --bg-img: url(asssets/icons/twitter.svg);
+    --bg-img: url(../asssets/icons/twitter.svg);
 
     &:hover {
-      --bg-img: url(asssets/icons/twitter-hover.svg);
+      --bg-img: url(../asssets/icons/twitter-hover.svg);
     }
   }
 }
