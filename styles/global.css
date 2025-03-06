@@ -66,10 +66,12 @@ h1 {
 
 h2 {
   font-size: var(--fs-xl);
+  font-family: var(--ff-sans);
 }
 
 h3 {
   font-size: var(--fs-lg);
+  font-family: var(--ff-sans);
 }
 
 a {
