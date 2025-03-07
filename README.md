@@ -56,9 +56,5 @@ Feito com ♥ by Pedro Kowalski Schumacher
     <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
   </a>
 </p>
-<style>
-  ul li {
-    oolor:#ffffff;
-  }
-</style>
+
 <!--END_SECTION:footer-->
