@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Zingen" src=".github/Thumbnail.png" width="100%">
+  <img alt="Zingen" src=".github/Thumbnail.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ Zingen é uma página institucional no formato One Page, responsiva, para usar e
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://pedropks.github.io/Zingen-LP-2025/). 
+Você pode visualizar o layout do projeto através [desse link](https://pedropks.github.io/Snitap-2025/). 
 
 ## 📝 Licença
 
