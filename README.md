@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Zingen" src="github/Thumbnail.png width=100%">
+  <img alt="Zingen" src=".github/Thumbnail.png">
 </p>
 
 ## 🚀 Tecnologias
